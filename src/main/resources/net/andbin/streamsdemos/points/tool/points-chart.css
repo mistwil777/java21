@@ -1,0 +1,17 @@
+#points-chart {
+    -fx-background-color: white;
+}
+
+#points-chart .chart-plot-background {
+    -fx-background-color: white;
+}
+
+#points-chart .axis-label {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+#points-chart .chart-symbol {
+    -fx-background-radius: 3.5px;
+    -fx-padding: 3.5px;
+}
